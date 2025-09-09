@@ -2,7 +2,7 @@ export default function App() {
 
   return (
     <>
-      Test Caro 1
+      Test Caro 2
     </>
   )
 }
